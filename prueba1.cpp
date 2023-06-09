@@ -7,5 +7,4 @@ int main ()
     cout<<"Aprendiendo sobre git"<<endl;
     cout<<"WAZA";
     return 0;
-    
 }
